@@ -1,57 +1,32 @@
-# Hi, I'm Ragul Ramachandran 👋
+# Ragul Ramachandran
 
-### Computer Science Student | Java | DSA | Full-Stack Development
+Computer Science student interested in software development and problem solving.
 
-I’m a computer science student focused on building practical software, strengthening problem-solving skills, and learning how to design reliable applications.
+## Currently learning
 
-- 🔭 Currently working on **DSA with Java** and developer-focused projects
-- 🌱 Learning **Java, backend development, system design, and AI-assisted development**
-- 🧠 Practising algorithms and data structures through structured problem solving
-- 🚀 Interested in building useful products with clean code and good engineering practices
+- Java
+- Data Structures and Algorithms
+- HTML, CSS and basic JavaScript
+- Git and GitHub
 
-## 🛠️ Tech Stack
+## Projects
 
-**Languages**  
-Java • C++ • Python • JavaScript
+- [Issue Navigator Plus](https://github.com/rragulramachandran/issue-navigator-plus) — An AI-assisted tool for organising and analysing GitHub issues.
+- [Student Burnout Monitor](https://github.com/rragulramachandran/student-burnout-monitor) — A frontend project for tracking student well-being data and visualising trends.
 
-**Web & Development**  
-HTML • CSS • JavaScript • React
+## Practice
 
-**Tools & Platforms**  
-Git • GitHub • VS Code
+- [LeetCode](https://github.com/rragulramachandran/leetcode) — Problem-solving practice and learning notes.
+- Striver A2Z DSA — Currently working through the roadmap using Java.
 
-## 📌 Featured Work
+## Technologies
 
-### 🔧 Issue Navigator Plus
-AI-assisted developer workflow for analysing GitHub issues, with a focus on classification, prioritisation, complexity estimation, and actionable suggestions.
+Java · C++ · Python · HTML · CSS · JavaScript
 
-### 🧠 Student Burnout Monitor
-A frontend prototype for tracking student well-being data, visualising trends, and generating rule-based informational risk indicators.
+## Goal
 
-### 💻 Striver A2Z DSA — Java
-A structured collection of Data Structures & Algorithms solutions following the Striver A2Z roadmap.
+To improve my problem-solving skills and build practical software projects while learning software development step by step.
 
-## 📚 Current Focus
-
-```text
-Data Structures & Algorithms  ███████░░░  Building consistency
-Java                          ███████░░░  Strengthening fundamentals
-Backend Development            █████░░░░░  Learning & building
-Software Engineering           █████░░░░░  Improving project quality
-```
-
-## 🎯 Goals
-
-- Build strong DSA and problem-solving fundamentals
-- Develop production-quality Java applications
-- Build and deploy meaningful full-stack projects
-- Learn backend architecture and scalable system design
-- Contribute to open-source projects
-
-## 🤝 Connect
+## Contact
 
 - GitHub: [@rragulramachandran](https://github.com/rragulramachandran)
-
----
-
-> Always learning. Always building. 🚀
