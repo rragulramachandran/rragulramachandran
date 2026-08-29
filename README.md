@@ -9,15 +9,15 @@ Computer Science student interested in software development and problem solving.
 - HTML, CSS and basic JavaScript
 - Git and GitHub
 
-## Projects
+## Selected projects
 
-- [Issue Navigator Plus](https://github.com/rragulramachandran/issue-navigator-plus) — An AI-assisted tool for organising and analysing GitHub issues.
-- [Student Burnout Monitor](https://github.com/rragulramachandran/student-burnout-monitor) — A frontend project for tracking student well-being data and visualising trends.
+- [Issue Navigator Plus](https://github.com/rragulramachandran/issue-navigator-plus) — A frontend-focused project for organising and exploring software issues, with backend and AI features planned.
+- [Student Burnout Monitor](https://github.com/rragulramachandran/student-burnout-monitor) — A frontend-only prototype for recording student well-being data and visualising trends with rule-based indicators.
 
 ## Practice
 
-- [LeetCode](https://github.com/rragulramachandran/leetcode) — Problem-solving practice and learning notes.
-- Striver A2Z DSA — Currently working through the roadmap using Java.
+- [LeetCode Practice](https://github.com/rragulramachandran/leetcode) — Problem-solving practice and learning notes.
+- DSA roadmap practice — Working through common Data Structures and Algorithms topics using Java.
 
 ## Technologies
 
