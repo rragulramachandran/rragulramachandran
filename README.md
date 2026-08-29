@@ -17,6 +17,14 @@ Computer Science Engineering Student @ Mepco Schlenk Engineering College
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/docker.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> 
 
-![Ragul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rragulramachandran&theme=dark&show_icons=true&&hide=issues,contribs)
+### GitHub Analytics
 
-[![Ragul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rragulramachandran&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/rragulramachandran/rragulramachandran)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rragulramachandran&theme=dark&show_icons=true&hide=issues,contribs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rragulramachandran&layout=compact&theme=dark" width="48%" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rragulramachandran&theme=dark" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rragulramachandran&bg_color=0d1117&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true" width="48%" />
+</div>
