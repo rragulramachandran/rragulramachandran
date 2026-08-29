@@ -18,10 +18,6 @@ Java · C++ · Python · HTML · CSS · JavaScript · Git · GitHub · Data Stru
 - [LeetCode](https://github.com/rragulramachandran/leetcode)
 - [TakeUForward](https://takeuforward.org/profile/ragulr)
 
-## Contributions
-
-[![Ragul's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rragulramachandran&hide_border=true)](https://github.com/rragulramachandran)
-
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/rragulramachandran/) · [GitHub](https://github.com/rragulramachandran)
