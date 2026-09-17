@@ -8,7 +8,7 @@ Java · C++ · Python · HTML · CSS · JavaScript · Git · GitHub · Data Stru
 
 ## Projects
 
-- [Issue Navigator Plus](https://github.com/rragulramachandran/issue-navigator-plus)
+- [Civic 360](https://github.com/rragulramachandran/issue-navigator-plus)
 - [Student Burnout Monitor](https://github.com/rragulramachandran/student-burnout-monitor)
 - [Centralized School Management System](https://github.com/rragulramachandran/Centralized_School_Management_System)
 
